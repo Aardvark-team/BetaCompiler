@@ -1,3 +1,5 @@
+# This was an April Fools Day joke. Ignore it.
+
 # BetaCompiler
 Beta Release of the Aardvark Compiler
 
